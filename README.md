@@ -37,7 +37,7 @@ allprojects {
 dependencies {
     //...
     implementation 'com.eqgis:eqtool:1.2.2'
-    implementation 'com.eqgis:sceneform-sm:1.19.21'
+    implementation 'com.eqgis:sceneform-sm:1.19.22'
 }
 ...
 ```
